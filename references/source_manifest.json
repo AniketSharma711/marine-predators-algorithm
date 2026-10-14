@@ -1,0 +1,12 @@
+{
+  "repository": "https://github.com/afshinfaramarzi/Marine-Predators-Algorithm",
+  "ref": "master",
+  "retrieved_date": "2026-10-14",
+  "sha256": {
+    "Get_Functions_details.m": "0cacb0ab953c058595db66ce20738ed771b11c6e30b18649df7cfb91a2799804",
+    "initialization.m": "5fba52ea87ab1f91373e3d57537f3b9490ae8994e2d665474b0cf40cdb78db96",
+    "levy.m": "ce8124d4cdd496cfe1e0b09231b9c1da48a2f236aa57d6c9e5e9c674c2adfd59",
+    "license.txt": "8d4941756d3cc3c3d6c6cc15a70a02baf038bf2ac886f8c5f5728101523b81b4",
+    "MPA.m": "a2ebeabf4e2a3fc71feef1537e4a52b4fe7b764ce68582051b01b7402914052d"
+  }
+}
